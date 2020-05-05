@@ -6,6 +6,9 @@ Uwufies given string (this is a joke btw)
 git clone https://github.com/flutte/uwufier.git uwufier
 ```
 ```
+cd uwufier
+```
+```
 py uwufier.py [string]
 ```
 
